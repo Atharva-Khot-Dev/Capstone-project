@@ -1,0 +1,4 @@
+﻿src/components/AdminDashboard.tsx(49,7): error TS2322: Type '{ id: number; name: string; description: string; category: string; price: number; quantity: number; image: any; }' is not assignable to type 'MenuItemType'.
+  Object literal may only specify known properties, and 'quantity' does not exist in type 'MenuItemType'.
+src/components/AdminDashboard.tsx(60,49): error TS2339: Property 'quantity' does not exist on type 'MenuItemType'.
+src/components/AdminDashboard.tsx(138,35): error TS2339: Property 'quantity' does not exist on type 'MenuItemType'.
